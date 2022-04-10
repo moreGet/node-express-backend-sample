@@ -1,7 +1,5 @@
 # node-express-backend-sample
 
----
-
 - NODE
 - MYSQL
 - EXPRESS
